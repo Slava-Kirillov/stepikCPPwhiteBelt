@@ -1,0 +1,3 @@
+/home/vkirillov/CLionProjects/stepik/whiteBelt/cmake-build-debug/CMakeFiles/whiteBelt.dir
+/home/vkirillov/CLionProjects/stepik/whiteBelt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vkirillov/CLionProjects/stepik/whiteBelt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
